@@ -1,0 +1,9 @@
+Topics-
+•	Overview of Version Control systems
+•	Central vs Distributed Control systems
+•	Introduction to Git
+•	Git file workflow
+•	Important Git Commands
+•	Branching and Merging, Stashing, Rebasing, Reverting and Resetting 
+•	Introduction to GitHub
+•	Using Git and GitHub together.
